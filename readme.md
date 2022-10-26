@@ -2,7 +2,7 @@
 
 This repository have implementations of sorting methods using Golang. If you want to run the benchmark tests, you can run:
 ```
-    make bench
+make bench
 ```
 
 ## Simple Sort
