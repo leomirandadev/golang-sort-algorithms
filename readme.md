@@ -9,7 +9,7 @@ make bench
 The complexity is calculated like this:
 
 For $N = 3$ we have:
-$$ (2+1+0) = 3 = 3*2/2 = 3 $$
+$$(2+1+0) = 3 = 3*2/2 = 3$$
 
 For $N=4$ we have:
 $$3+2+1+0 = 6 = 4*3/2 = 6$$
