@@ -29,12 +29,8 @@ We don't need more memory usage to make this process so, for the space complexit
 ## Other Sort Algorithms
 
 
-<style>
-    .red { 
-        background:red;
-        color:white;
-    }
-</style>
+<style>.red { background:red;color:white;}</style>
+
 
 <table>
     <tr>
