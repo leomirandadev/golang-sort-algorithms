@@ -71,18 +71,18 @@ We don't need more memory usage to make this process so, for the space complexit
         <td>O(N*logN)</td>
         <td>O(N)</td>
     </tr>
-    <!-- <tr>
+    <tr style="background:red;color:white;">
         <td>Quick Sort</td>
         <td>O(N*logN)</td>
         <td>O(N*logN)</td>
         <td>O(N^2)</td>
         <td>O(N)</td>
     </tr>
-    <tr>
+    <tr style="background:red;color:white;">
         <td>Heap Sort</td>
         <td>O(N*logN)</td>
         <td>O(N*logN)</td>
         <td>O(N*logN)</td>
         <td>O(1)</td>
-    </tr> -->
+    </tr>
 </table>
