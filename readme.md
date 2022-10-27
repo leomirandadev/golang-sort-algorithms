@@ -28,6 +28,14 @@ We don't need more memory usage to make this process so, for the space complexit
 
 ## Other Sort Algorithms
 
+
+<style>
+    .red { 
+        background:red;
+        color:white;
+    }
+</style>
+
 <table>
     <tr>
         <th>Algorithms</th>
@@ -71,14 +79,14 @@ We don't need more memory usage to make this process so, for the space complexit
         <td>O(N*logN)</td>
         <td>O(N)</td>
     </tr>
-    <tr style="background:red;color:white;">
+    <tr class="red">
         <td>Quick Sort</td>
         <td>O(N*logN)</td>
         <td>O(N*logN)</td>
         <td>O(N^2)</td>
         <td>O(N)</td>
     </tr>
-    <tr style="background:red;color:white;">
+    <tr class="red">
         <td>Heap Sort</td>
         <td>O(N*logN)</td>
         <td>O(N*logN)</td>
